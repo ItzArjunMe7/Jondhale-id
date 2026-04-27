@@ -1,0 +1,7 @@
+{
+  "name": "EduID - Student ID Portal",
+  "description": "A comprehensive portal for students to generate professional digital ID cards and for admins to manage student records.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
